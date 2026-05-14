@@ -22,8 +22,10 @@ Sou estudante de ADS e estou buscando minha primeira consolidação profissional
 
 ## Projetos
 
-[![Projetos Gerais](https://img.shields.io/badge/Projetos%20Gerais-GitHub-black?style=for-the-badge)](https://github.com/karen-andrade?tab=repositories)
-[![Projetos de Extensão](https://img.shields.io/badge/Projetos%20de%20Extens%C3%A3o-Faculdade-2E8B57?style=for-the-badge)](https://github.com/karen-andrade?tab=repositories&q=extensao+OR+faeterj+OR+pizzaria)
+[![Projetos Gerais](https://img.shields.io/badge/Projetos%20Gerais-GitHub-black?style=for-the-badge)](https://github.com/karen-andrade?tab=repositories&q=cloud+OR=python+OR=portfolio)
+
+[![Projetos de Extensão](https://img.shields.io/badge/Projetos%20de%20Extens%C3%A3o-Faculdade-2E8B57?style=for-the-badge)](https://github.com/karen-andrade?tab=repositories?q=extensao+OR+faeterj)
+
 
 ## Tecnologias
 
